@@ -33,6 +33,11 @@
 <a href="https://t.me/BeastX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
+#### Deployment
+
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna007/Beast-X"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+</p>
 
 # TuToRiaL
 
